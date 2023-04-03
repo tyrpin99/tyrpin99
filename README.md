@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 I am a back-end software engineer from Poland. I have a wide range of interests and am constantly learning to become a better developer. 
-- ? Working on multiple frontend and backend project using React and Nodejs
-- ? Learning design patterns in depth
+- 🔭 Currently im working on Android project 
+- 🌱 Currently mastering java 
+- 📫 You can reach me on (tyrpin58@gmail.com)
 
 
 ## Connect with me
